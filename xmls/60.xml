@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drive-download-20200424T123812Z-001</folder>
+	<filename>60.jpg</filename>
+	<path>/Users/admin/Downloads/drive-download-20200424T123812Z-001/60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>674</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corgi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>37</ymin>
+			<xmax>747</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>
