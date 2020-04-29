@@ -11,3 +11,5 @@ Please note that some of the file are in the Google Drive.
 
 I will try to upload them in Github.
 
+IN the model, I hope at 1807 iternations.
+
